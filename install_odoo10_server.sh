@@ -28,7 +28,7 @@ OE_PORT="8069"
 #IMPORTANT! This script contains extra libraries that are specifically needed for Odoo 10.0
 OE_VERSION="10.0"
 # Set this to True if you want to install Odoo 10 Enterprise!
-IS_ENTERPRISE="TRUE"
+IS_ENTERPRISE="True"
 #set the superadmin password
 OE_SUPERADMIN="admin"
 OE_CONFIG="${OE_USER}-server"
